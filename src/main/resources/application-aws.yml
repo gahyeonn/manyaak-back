@@ -1,0 +1,17 @@
+spring:
+      # Database
+      datasource:
+        driver-class-name: org.postgresql.Driver
+        url: jdbc:postgresql://db.mvtyrvoogzguqptmeood.supabase.co:5432/postgres?user=postgres&password=manyaak1212!
+        username: postgres
+        password: manyaak1212!
+      sql:
+        init:
+          platform: postgres
+
+
+
+
+
+
+
